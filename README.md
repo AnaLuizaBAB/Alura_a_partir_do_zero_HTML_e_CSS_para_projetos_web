@@ -1,7 +1,7 @@
 Pasta 1, o que foi aprendido:
 
 - Estruturar um documento HTML com tags e elementos;
-- A utilidade da introdução <!DOCTYPE html>;
+- A utilidade da introdução '!DOCTYPE html';
 - Criar textos alternativos (alts) para uma imagem;
 - Utilizar extensões no Visual Studio Code (Live Server por exemplo)
 - O que é CSS (Cascading Style Sheets);
