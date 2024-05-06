@@ -7,3 +7,7 @@ Pasta 2, o que foi aprendido:
 - Padrões de projetos CSS com height e box-sizing;
 - Hierarquia entre elementos pai e filho;
 - Flexbox.
+- Criar seções (sections) no HTML;
+- Boas práticas para nomear sections;
+- Utilizar o Figma para consultar medidas de elementos;
+- Importar fontes com Google Fonts.
