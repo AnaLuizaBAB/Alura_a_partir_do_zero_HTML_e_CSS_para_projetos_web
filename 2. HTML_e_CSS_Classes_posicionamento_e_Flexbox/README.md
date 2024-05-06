@@ -11,3 +11,5 @@ Pasta 2, o que foi aprendido:
 - Boas práticas para nomear sections;
 - Utilizar o Figma para consultar medidas de elementos;
 - Importar fontes com Google Fonts.
+- Posicionar e estilizar botões;
+
